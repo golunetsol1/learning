@@ -1,0 +1,13 @@
+# Ignore node_modules directory
+node-js/node_modules/
+express-js/node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+########################### to Create git ignore file using terminal in vs code ###########################
+
+#### ( New-Item -Path . -Name ".gitignore" -ItemType "file" )

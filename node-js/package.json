@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "dev",
+    "start": "node server.js"
+  },
+  "author": "Gs",
+  "license": "ISC",
+  "keywords": [],
+  "description": "Learning NodeJs",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
