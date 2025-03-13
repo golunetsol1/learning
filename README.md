@@ -3,4 +3,4 @@
 🌱 I’m currently learning the MERN Stack.
 📫 You can reach me at: goluchauhan.netsol@gmail.com
 😄 Pronouns: GS / Golu
-⚡ Fun fact: I once rode a bike at 150 km/h on a racetrack!
+⚡ Fun fact: I once rode a bike at 170 km/h on a racetrack!
